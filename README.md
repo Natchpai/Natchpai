@@ -1,14 +1,16 @@
 ## Hey 👋 I'm Tonpai
-<img align="right" height="200" src="https://i.imgur.com/efcOFbb.gif"  />
-I am Natchanon who student from KMUTNB I am a Embedded Systems developer. <br/>
-I love to do something from scratch.
+<img align="right" height="220" src="https://i.imgur.com/efcOFbb.gif"  />
+
+I'm Natchanon from Thailand, I am a guy who loves Electronic and Programming. <br/> 
+I am a Hardware Designer, Embedded Systems developer and love to do something.
+
 
 ### 📅 About Me  
 - 🛠️ Experienced with Embedded Systems, Analog Hardware Design
-- 💡 Interested in Digital signal processing, Music
-- 📚 Currently learning Mixed Signal Hardware Design and *I wanna live, not just survive*
-- 🎓 Background *Cert in Tech.Ed Electrical & Electronic*
-- 🎓 Now in Junior of Electrical Engineer and Education
+- 💡 Interested in Digital signal processing, High speed Design
+- 📚 Currently learning Mixed Signal Hardware Design and live.
+- 🎓 Background *Cert.in Tech.Ed Electrical & Electronic*
+- 🎓 Now in Junior of Electrical Engineer and Education KMUTNB.
 - ⚡ **Fun Fact** I think I gonna give you up
   
 
@@ -32,7 +34,6 @@ I love to do something from scratch.
   [<img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="youtube logo"  />](https://www.youtube.com/@lovegazer)
   [<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="discord logo"  />](https://discordapp.com/users/640000848348446742)
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />
 
 ### 📫 Connect With Me  
 
@@ -40,12 +41,6 @@ I love to do something from scratch.
 - 🌐 **GitHub:** [github.com/natchpai](https://github.com/natchpai)
 - 🌐 **Facebook:** [Natch Pai](https://www.facebook.com/natchpai.jp)
 - 📧 **Gmail:** [natchmizu@gmail.com](mailto:natchmizu@gmail.com)
-
-###
-
-<img src="https://raw.githubusercontent.com/natchpai/natchpai/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 > *“Every resistor, capacitor, and trace tells a story”*
