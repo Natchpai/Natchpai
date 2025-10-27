@@ -3,7 +3,6 @@
 <img align="right" height="200" src="https://i.imgur.com/efcOFbb.gif"  />
 
 I'm **Natchanon** a guy who loves **Electronics**, **Programming**, and **Hardware Design**.  <br/> 
-I focus on developing **Embedded Systems**, designing **Hardware** and **Signal Processing**
 
 
 ### 📅 About Me  
@@ -13,7 +12,7 @@ I focus on developing **Embedded Systems**, designing **Hardware** and **Signal 
 - 🎓 Education:  
   - *Cert. in Tech.Ed Electrical & Electronic*  
   - *Junior in Electrical Engineering & Education, KMUTNB*  
-- ⚡ **Fun Fact:** I think I’m gonna give you up 🎶
+- ⚡ **Fun Fact:** ?
   
 <br/>
 
