@@ -1,19 +1,20 @@
-## Hey 👋 I'm Tonpai
-<img align="right" height="220" src="https://i.imgur.com/efcOFbb.gif"  />
+## 👋 Hey there, I'm Tonpai
 
-I'm Natchanon from Thailand, I am a guy who loves Electronic and Programming. <br/> 
-I am a Hardware Designer, Embedded Systems developer and love to do something.
+<img align="right" height="250" src="https://i.imgur.com/efcOFbb.gif"  />
+
+I'm **Natchanon** a guy who loves **Electronics**, **Programming**, and **Hardware Design**.  <br/> 
+I focus on developing **Embedded Systems**, designing **Hardware** and **Signal Processing**
 
 
 ### 📅 About Me  
-- 🛠️ Experienced with Embedded Systems, Analog Hardware Design
-- 💡 Interested in Digital signal processing, High speed Design
-- 📚 Currently learning Mixed Signal Hardware Design and live.
-- 🎓 Background *Cert.in Tech.Ed Electrical & Electronic*
-- 🎓 Now in Junior of Electrical Engineer and Education KMUTNB.
-- ⚡ **Fun Fact** I think I gonna give you up
+- 🛠️ Experienced in **Embedded Systems** & **Analog Hardware Design**  
+- 💡 Interested in **Digital Signal Processing** & **High-Speed Hardware Design**  
+- 📚 Currently exploring **Mixed-Signal Hardware Design**  & **STM32 Development**
+- 🎓 Education:  
+  - *Cert. in Tech.Ed Electrical & Electronic*  
+  - *Junior in Electrical Engineering & Education, KMUTNB*  
+- ⚡ **Fun Fact:** I think I’m gonna give you up 🎶
   
-
 <br/>
 
 <div align="left">
@@ -27,22 +28,27 @@ I am a Hardware Designer, Embedded Systems developer and love to do something.
   <img width="12" />
 </div>
 
-<br/>
 
+### 🌐 Connect With Me  
   [<img src="https://img.shields.io/static/v1?message=Facebook&logo=Facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="FB logo" />](https://www.facebook.com/natchpai.jp)
   [<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram logo"  />](https://www.instagram.com/natch_pai)
   [<img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="youtube logo"  />](https://www.youtube.com/@lovegazer)
   [<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="discord logo"  />](https://discordapp.com/users/640000848348446742)
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />
-
-### 📫 Connect With Me  
+  [<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />](mailto:natchmizu@gmail.com)
 
 
 - 🌐 **GitHub:** [github.com/natchpai](https://github.com/natchpai)
 - 🌐 **Facebook:** [Natch Pai](https://www.facebook.com/natchpai.jp)
 - 📧 **Gmail:** [natchmizu@gmail.com](mailto:natchmizu@gmail.com)
+<br/>
+
+> *Design is not just about making circuits work it’s about making them work beautifully.* <br/>
+> ***Because Every resistor, capacitor, and trace tells a story***
+<br/>
+
+⭐ *Thanks for visiting my profile - feel free to explore my repositories or connect with me about embedded systems, analog design*
 
 
-> *“Every resistor, capacitor, and trace tells a story”*
+
 
 
