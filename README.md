@@ -1,6 +1,6 @@
 ## 👋 Hey there, I'm Tonpai
 
-<img align="right" height="250" src="https://i.imgur.com/efcOFbb.gif"  />
+<img align="right" height="200" src="https://i.imgur.com/efcOFbb.gif"  />
 
 I'm **Natchanon** a guy who loves **Electronics**, **Programming**, and **Hardware Design**.  <br/> 
 I focus on developing **Embedded Systems**, designing **Hardware** and **Signal Processing**
@@ -42,9 +42,21 @@ I focus on developing **Embedded Systems**, designing **Hardware** and **Signal 
 - 📧 **Gmail:** [natchmizu@gmail.com](mailto:natchmizu@gmail.com)
 <br/>
 
+## 🛠️ Featured Projects
+
+### [Positive and Negative Five Volt Rails Generated via Charge Pump Voltage Inversion]()
+
+> Generate Dual rail Reference from a Single supply. Use TC7660
+
+
+
+
+
+<br/>
+<br/>
+
 > *Design is not just about making circuits work it’s about making them work beautifully.* <br/>
 > ***Because Every resistor, capacitor, and trace tells a story***
-<br/>
 
 ⭐ *Thanks for visiting my profile - feel free to explore my repositories or connect with me about embedded systems, analog design*
 
