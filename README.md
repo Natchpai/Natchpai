@@ -2,11 +2,11 @@
 
 <img align="right" height="200" src="https://i.imgur.com/efcOFbb.gif"  />
 
-I'm **Natchanon** a guy who loves **Electronics**, **Programming**, and **Hardware Design**.  <br/> 
+I'm **Natchanon** a guy who loves **Electronics**, **Programming** and **Hardware Design**.  <br/> 
 
 
 ### 📅 About Me  
-- 🛠️ Experienced in **Embedded Systems** & **Analog Hardware Design**  
+- 🛠️ Experienced in **Analog Hardware Design** & **Embedded Systems**  
 - 💡 Interested in **Digital Signal Processing** & **High-Speed Hardware Design**  
 - 📚 Currently exploring **Mixed-Signal Hardware Design**  & **STM32 Development**
 - 🎓 Education:  
