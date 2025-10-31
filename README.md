@@ -29,7 +29,7 @@ I loves Electronics Programming Hardware Design and do something that challenge 
 ### 🌐 Connect With Me  
   [<img src="https://img.shields.io/static/v1?message=Facebook&logo=Facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="FB logo" />](https://www.facebook.com/natchpai.jp)
   [<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram logo"  />](https://www.instagram.com/natch_pai)
-  [<img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="youtube logo"  />](https://www.youtube.com/@lovegazer)
+  [<img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="youtube logo"  />](https://www.youtube.com/@lovegazer/playlists)
   [<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="discord logo"  />](https://discordapp.com/users/640000848348446742)
   [<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />](mailto:natchmizu@gmail.com)
 
