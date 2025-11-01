@@ -1,13 +1,13 @@
 ## 👋 Hey there, I'm Tonpai
 
-<img align="right" height="200" src="https://i.imgur.com/efcOFbb.gif"  />
+<img align="right" height="230" width="230" src="https://i.imgur.com/efcOFbb.gif"  />
 
 I loves Electronics Programming Hardware Design and do something that challenge myself<br/> 
 ****The project in this are HOBBY Project and Classwork.**** 
 ⭐ Thanks for visiting my profile.
 
 ### 📅 About Me  
-- 🛠️ Experienced in **Analog Hardware Design** & **Embedded Systems**  
+- 🛠️ Experienced in **Analog Design** & **Embedded Systems**  
 - 💡 Interested in **Digital Signal Processing** & **High-Speed Hardware Design**  
 - 📚 Currently exploring **Mixed-Signal Hardware Design**  & **STM32 Development**
 - ⚡ **Fun Fact:** 50% of my hobby time is spent searching for old J-music in YT.
@@ -15,13 +15,13 @@ I loves Electronics Programming Hardware Design and do something that challenge 
 <br/>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40"alt="c++ logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/3374914?s=200&v=4" height="40" alt="KiCAD logo"  />
+  <img src="https://avatars.githubusercontent.com/u/3374914?s=200&v=4" height="40" width="40" alt="KiCAD logo"  />
   <img width="12" />
 </div>
 
