@@ -1,16 +1,19 @@
-## 👋 Hey there, I'm Tonpai
+## 👋 Hey there
 
-<img align="right" height="230" width="230" src="https://i.imgur.com/efcOFbb.gif"  />
+<img align="right" height="220" width="200" src="https://i.imgur.com/efcOFbb.gif"  />
 
-I loves Electronics Programming Hardware Design and do something that challenge myself<br/> 
-****The project in this are HOBBY Project and Classwork.**** 
+I'm Tonpai🎋
+
+**Most of the projects in here are my hobby projects and classworks** <br/>
 ⭐ Thanks for visiting my profile.
 
 ### 📅 About Me  
-- 🛠️ Experienced in **Analog Design** & **Embedded Systems**  
-- 💡 Interested in **Digital Signal Processing** & **High-Speed Hardware Design**  
-- 📚 Currently exploring **Mixed-Signal Hardware Design**  & **STM32 Development**
-- ⚡ **Fun Fact:** 50% of my hobby time is spent searching for old J-music in YT.
+- 💾 Experienced in **Analog Design** & **Hardware Design**  
+- 🌠 Interested in **Digital Signal Processing** & **High-Speed Hardware Design**  
+- 🎯 Currently learning **Mixed-Signal Hardware Design**  & **STM32 Development**
+- ⚡ **Fun Fact:** 50% of my weekend is spent searching for J-music in YT. <br/>
+
+If you interesting, my playlists are in YouTube profile. 
   
 <br/>
 
@@ -41,13 +44,16 @@ I loves Electronics Programming Hardware Design and do something that challenge 
 
 > ***Every resistor, capacitor, and trace tells a story***
 
-## 🛠️ Featured Projects
+## 📖 Featured Projects
+
+### [Amplify Experienace](https://github.com/Natchpai/Amplify_Experiance)
+
+> Normal Audio Amplifier base-on Discrete power amplifier (renew)
+
 
 ### [Positive and Negative Five Volt Rails Generated via Charge Pump Voltage Inversion]()
 
 > Generate Dual rail Reference from a Single supply. Use TC7660
-
-
 
 
 
