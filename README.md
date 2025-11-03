@@ -46,6 +46,10 @@ If you interesting, my playlists are in YouTube profile.
 
 ## 📖 Featured Projects
 
+### [Low Cost 250W DC Electronic Loads](https://github.com/Natchpai/Electronic_Load/tree/main)
+
+> Electrical Test Instrument, 250W DC Electronic Loads Base-on ESP32
+
 ### [Amplify Experienace](https://github.com/Natchpai/Amplify_Experiance)
 
 > Normal Audio Amplifier base-on Discrete power amplifier (renew)
