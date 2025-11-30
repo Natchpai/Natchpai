@@ -46,6 +46,10 @@ If you interesting, my playlists are in YouTube profile.
 
 ## 📖 Featured Projects
 
+### [BeyondCMoy](https://github.com/Natchpai/BeyondCMoy/tree/main)
+
+> Upgrade headphone-amp's circuit to SMT world!!
+
 ### [Low Cost 250W DC Electronic Loads](https://github.com/Natchpai/Electronic_Load/tree/main)
 
 > Electrical Test Instrument, 250W DC Electronic Loads Base-on ESP32
