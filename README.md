@@ -8,11 +8,10 @@ I'm Tonpai🎋
 ⭐ Thanks for visiting my profile.
 
 ### 📅 About Me  
-- 💾 Experienced in **Analog Design** & **Hardware Design**  
+- 💾 Experienced in **Coffee**  
 - 🌠 Interested in **Digital Signal Processing** & **High-Speed Hardware Design**  
-- 🎯 Currently learning **Mixed-Signal Hardware Design**  & **STM32 Development**
-- ⚡ **Fun Fact:** 50% of my weekend is spent searching for J-music in YT. <br/>
 
+50% of my weekend is spent searching for J-music in YT. <br/>
 If you interesting, my playlists are in YouTube profile. 
   
 <br/>
