@@ -2,10 +2,10 @@
 
 <img align="right" height="220" width="200" src="https://i.imgur.com/efcOFbb.gif"  />
 
-I'm Tonpai🎋
+I'm Tonpai
 
-**Most of the projects in here are my hobby projects and classworks** <br/>
 ⭐ Thanks for visiting my profile.
+**Most of the projects in here are my hobby projects and classworks** <br/>
 
 ### 📅 About Me  
 - 💾 Experienced in **Coffee**  
