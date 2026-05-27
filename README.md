@@ -30,7 +30,7 @@ If you interesting, my playlists are in YouTube profile.
 - 📧 **Gmail:** [natchmizu@gmail.com](mailto:natchmizu@gmail.com)
 <br/>
 
-> ***Every resistor, capacitor, and trace tells a story***
+> ***GMR155R71H104KE14 GMR155R71H104KE14 GMR155R71H104KE14 GMR155R71H104KE14 GMR155R71H104KE14***
 
 ## 📖 Featured Projects
 ### [LQRx_InterleavedBuck](https://github.com/Natchpai/LQRx_InterleavedBuck.git)
