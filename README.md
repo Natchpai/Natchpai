@@ -1,6 +1,6 @@
 ## 👋 Hey there, I'm Tonpai!
 
-<img align="right" height="200" width="250" src="https://i.imgur.com/DeqbTtD.gif"  />
+<img align="right" height="180" width="220" src="https://i.imgur.com/DeqbTtD.gif">
 
 **Hardware Designer? | Power Engineering Student? | High-Speed Digital & DSP Enthusiast**
 
@@ -11,11 +11,11 @@ Welcome to my GitHub. Most of the projects here are a mix of my deep dives into 
 - 🎯 **Currently Learning |** Diving deep into **DSP** and **High-Speed Hardware Design**.
 - 🛠️ **Tools |** KiCad, MATLAB
 - ☕ **Fuel |** Highly experienced in **Coffee**.
-- 🎵 **Vibe |** My weekend is spent searching for J-music on YouTube. (If you're interested, my playlists are linked in my profile!)
+- 🎵 **Vibe |** My weekend is spent searching for J-music on YouTube. (If you're interested, my playlists are linked in my YT profile!)
 
 <br/>
 
-> Do you know "***GRM155R71H104KE14***" ?
+> Do you know **GRM155R71H104KE14** ?
 
 <br/>
 
