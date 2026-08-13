@@ -1,6 +1,6 @@
 ## 👋 Hey there, I'm Tonpai!
 
-<img align="right" height="180" width="220" src="https://i.imgur.com/DeqbTtD.gif">
+<img align="right" height="230" width="220" src="https://i.imgur.com/ymhchYJ.gif">
 
 **Hardware Designer? | Power Engineering Student? | High-Speed Digital & DSP Enthusiast**
 
