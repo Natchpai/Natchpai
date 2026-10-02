@@ -1,32 +1,31 @@
-## 👋 Hey there, I'm Tonpai!
+## Hey, I'm Natchanon Thuentham aka Tonpai
 
 <img src="https://i.imgur.com/ymhchYJ.gif" align="right" width="200">
 
-**Hardware Designer? | Power Engineering Student? | High-Speed Digital & DSP Enthusiast**
+**Junior Hardware Designer | Power Engineering Student? | High-Speed Digital & DSP Enthusiast**
 
 Welcome to my GitHub. Most of the projects here are a mix of my deep dives into electronics as a hobby, classworks, and open-source hardware development.
 
-### 📅 About Me & Current Focus
-- ⚡ **Experienced |** Power Electronics, SMPS Design, and Discrete Control.
-- 🎯 **Currently Learning |** Diving deep into **DSP** and **High-Speed Hardware Design**.
-- 🛠️ **Tools |** KiCad, MATLAB
-- ☕ **Fuel |** Highly experienced in **Coffee**.
-- 🎵 **Vibe |** My weekend is spent searching for J-music on YouTube. (If you're interested, my playlists are linked in my YT profile!)
+### 🚀 About Me & Current Focus
+- 🔹 **Experienced |** Power Electronics, SMPS Design, and Discrete Control.
+- 🔸 **Currently Learning |** Diving deep into **DSP** and **High-Speed Hardware Design**.
+- 🔸 **Tools |** KiCad, MATLAB
+- 🔸 **Fuel |** Highly experienced in **Coffee**.
 
 <br/>
 
-> Do you know **GRM155R71H104KE14** ?
+> 
 
 <br/>
 
-## 🚀 Currently Working On
+## 📅 Currently Working On
 
 ### **ZettBrett | Zynq-7000 SoC**
 > Taking a deep dive into High-Speed PCB routing. Currently planning and designing a custom board built around the Xilinx Zynq-7000. Focusing on high-speed Signal Integrity and complex memory interfaces.
 
 <br/>
 
-## 📖 Featured Projects
+## 📚 Featured Projects
 
 ### 🔌 [LQRx_InterleavedBuck](https://github.com/Natchpai/LQRx_InterleavedBuck.git)
 > **2-Phase Interleaved Synchronous Buck Converter**
@@ -54,7 +53,7 @@ Welcome to my GitHub. Most of the projects here are a mix of my deep dives into 
 
 - 🌐 **GitHub:** [github.com/natchpai](https://github.com/natchpai)
 - 🌐 **Facebook:** [Natch Pai](https://www.facebook.com/natchpai.jp)
-- 📧 **Gmail:** [natchmizu@gmail.com](mailto:natchmizu@gmail.com)
+- 📬 **Gmail:** [natchmizu@gmail.com](mailto:natchmizu@gmail.com)
 
 
 
