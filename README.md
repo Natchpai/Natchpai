@@ -1,44 +1,43 @@
-## Hey, I'm Natchanon Thuentham aka Tonpai
+# Hey, I'm Natchanon Thuentham 👋
+**aka Tonpai**
 
-<img src="https://i.imgur.com/ymhchYJ.gif" align="right" width="200">
+I'm an Electrical engineering student, interested in Hardware and PCB design, focus on digital and mixed-signal field. </br>
+This GitHub is a portfolio of my personal projects, university research, and open-source hardware designs. </br>
+Feel free to explore my repositories or reach out for collaboration!
+> I enjoy exploring new hardware architectures, experimenting in real world, and improving my skills along the way.
 
-**Junior Hardware Designer | Power Engineering Student? | High-Speed Digital & DSP Enthusiast**
-
-Welcome to my GitHub. Most of the projects here are a mix of my deep dives into electronics as a hobby, classworks, and open-source hardware development.
-
-### 🚀 About Me & Current Focus
-- 🔹 **Experienced |** Power Electronics, SMPS Design, and Discrete Control.
-- 🔸 **Currently Learning |** Diving deep into **DSP** and **High-Speed Hardware Design**.
-- 🔸 **Tools |** KiCad, MATLAB
-- 🔸 **Fuel |** Highly experienced in **Coffee**.
-
-<br/>
-
-> 
+## ⚡ About Me
+- 🔧 **Specializing in:** Power Electronics, Analog & Mixed-Signal Hardware
+- 📖 **Currently Learning:** High-Speed PCB Design & Digital Signal Processing (DSP)
+- 🛠️ **Tools:** KiCad, MATLAB
+- ☕ **Powered by:** Coffee
 
 <br/>
 
-## 📅 Currently Working On
+## 🛠️ Currently Working On
 
-### **ZettBrett | Zynq-7000 SoC**
-> Taking a deep dive into High-Speed PCB routing. Currently planning and designing a custom board built around the Xilinx Zynq-7000. Focusing on high-speed Signal Integrity and complex memory interfaces.
+### ZettBrett — Zynq-7000 SoC Development Board
+*High-Speed PCB Design | FPGA SoC*
+> Designing a custom development board based on the AMD/Xilinx Zynq-7000 SoC as a hands-on exploration of high-speed hardware engineering.
+
+### AeroOptix-Horizon — STM32H7 Flight Controller
+> High-performance dual-MCU flight controller powered by STM32H7 & STM32F1 by AeroOptix Club.
 
 <br/>
 
 ## 📚 Featured Projects
 
-### 🔌 [LQRx_InterleavedBuck](https://github.com/Natchpai/LQRx_InterleavedBuck.git)
-> **2-Phase Interleaved Synchronous Buck Converter**
-> My current flagship project. Designing a high-performance converter utilizing state-space modeling, LQR/PI control strategies, and Average Current Mode control. Pushing the limits of STM32's high-resolution timers to handle up to 20A loads stably.
+###  [LQRx_InterleavedBuck](https://github.com/Natchpai/LQRx_InterleavedBuck)
 
-### 🔋 [Low Cost 250W DC Electronic Loads](https://github.com/Natchpai/Electronic_Load)
-> **Electrical Test Instrument Base-on ESP32**
-> An open-source, affordable 250W DC Electronic Load measurement tool designed for testing power sources efficiently.
+**2-Phase Interleaved Synchronous Buck Converter**
+> A digitally controlled power converter developed around state-space modeling and modern control techniques. Pushing the limits of STM32's high-resolution timers to handle up to 20A loads stably.
 
-### 🎧 [BeyondCMoy](https://github.com/Natchpai/BeyondCMoy)
-> **Headphone Amp with Power Management**
-> An upgrade to the classic CMoy headphone amp circuit, enhanced by integrating a dedicated power management system for better audio performance and battery handling.
+###  [Low-Cost 250W DC Electronic Load](https://github.com/Natchpai/Electronic_Load)
 
+**ESP32-Based Electronic Test Equipment**
+> An open-source, affordable 250W programmable DC electronic load designed for power supply testing and electronics experimentation.
+
+---
 <br/>
 
 ## 🌐 Connect With Me
@@ -55,8 +54,4 @@ Welcome to my GitHub. Most of the projects here are a mix of my deep dives into 
 - 🌐 **Facebook:** [Natch Pai](https://www.facebook.com/natchpai.jp)
 - 📬 **Gmail:** [natchmizu@gmail.com](mailto:natchmizu@gmail.com)
 
-
-
-
-
-
+---
