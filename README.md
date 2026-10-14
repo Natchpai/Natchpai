@@ -18,7 +18,7 @@ Feel free to explore my repositories or reach out for collaboration!
 
 ### ZettBrett — Zynq-7000 SoC Development Board
 *High-Speed PCB Design | FPGA SoC*
-> Designing a custom development board based on the AMD/Xilinx Zynq-7000 SoC as a hands-on exploration of high-speed hardware engineering.
+> Designing a custom development board based on the AMD/Xilinx Zynq-7000 SoC.
 
 ### AeroOptix-Horizon — STM32H7 Flight Controller
 > High-performance dual-MCU flight controller powered by STM32H7 & STM32F1 by AeroOptix Club.
