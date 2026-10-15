@@ -19,16 +19,16 @@ Feel free to explore my repositories or reach out for collaboration!
 ###  [LQRx : InterleavedBuck](https://github.com/Natchpai/LQRx_InterleavedBuck)
 
 **2-Phase Interleaved Synchronous Buck Converter**
-> A digitally controlled power converter developed around state-space modeling and modern control techniques. Pushing the limits of STM32's high-resolution timers to handle up to 20A loads stably.
+> A digitally controlled power converter. STM32's high-resolution timers to handle up to 20A loads.
 
 ###  [LQRx : InterleavedBuck Firmware](https://github.com/Natchpai/InterleavedBuck-Firmware)
 **A Firmware of 2-Phase Interleaved Synchronous Buck Converter**
 > Use LQR algorithm to Regulate the voltage and Balance the phase current.
 
-###  [Low-Cost 250W DC Electronic Load](https://github.com/Natchpai/Electronic_Load)
+###  [Low-Cost ESP32 Electronic Load](https://github.com/Natchpai/Electronic_Load)
 
 **ESP32-Based Electronic Test Equipment**
-> An open-source, 250W programmable DC electronic load designed for power supply testing and electronics experimentation.
+> An open-source, 250W programmable DC electronic load designed for power supply testing.
 
 <br/>
 
