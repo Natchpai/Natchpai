@@ -16,10 +16,14 @@ Feel free to explore my repositories or reach out for collaboration!
 
 ## 📚 Featured Projects
 
-###  [LQRx_InterleavedBuck](https://github.com/Natchpai/LQRx_InterleavedBuck)
+###  [LQRx : InterleavedBuck](https://github.com/Natchpai/LQRx_InterleavedBuck)
 
 **2-Phase Interleaved Synchronous Buck Converter**
 > A digitally controlled power converter developed around state-space modeling and modern control techniques. Pushing the limits of STM32's high-resolution timers to handle up to 20A loads stably.
+
+###  [LQRx : InterleavedBuck Firmware](https://github.com/Natchpai/InterleavedBuck-Firmware)
+**A Firmware of 2-Phase Interleaved Synchronous Buck Converter**
+> Use LQR algorithm to Regulate the voltage and Balance the phase current.
 
 ###  [Low-Cost 250W DC Electronic Load](https://github.com/Natchpai/Electronic_Load)
 
