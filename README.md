@@ -14,17 +14,6 @@ Feel free to explore my repositories or reach out for collaboration!
 
 <br/>
 
-## 🛠️ Currently Working On
-
-### ZettBrett — Zynq-7000 SoC Development Board
-*High-Speed PCB Design | FPGA SoC*
-> Designing a custom development board based on the AMD/Xilinx Zynq-7000 SoC.
-
-### AeroOptix-Horizon — STM32H7 Flight Controller
-> High-performance dual-MCU flight controller powered by STM32H7 & STM32F1 by AeroOptix Club.
-
-<br/>
-
 ## 📚 Featured Projects
 
 ###  [LQRx_InterleavedBuck](https://github.com/Natchpai/LQRx_InterleavedBuck)
@@ -35,9 +24,28 @@ Feel free to explore my repositories or reach out for collaboration!
 ###  [Low-Cost 250W DC Electronic Load](https://github.com/Natchpai/Electronic_Load)
 
 **ESP32-Based Electronic Test Equipment**
-> An open-source, affordable 250W programmable DC electronic load designed for power supply testing and electronics experimentation.
+> An open-source, 250W programmable DC electronic load designed for power supply testing and electronics experimentation.
 
----
+<br/>
+
+## 🛠️ Currently Working On
+
+### [myZettBrett](https://github.com/Natchpai)
+*Zynq-7000 SoC Development Board*
+> Practical Training in Designing Custom Development Boards Based-on the AMD/Xilinx Zynq-7000 SoC.
+
+### [AeroOptix-Horizon](https://github.com/Natchpai/AeroOptix-Horizon)
+*STM32H743 & STM32F103 Flight Controller*
+> High-performance Dual MCU Flight Controller powered by AeroOptix Club.
+
+<br/>
+
+## 🌱 Plant?
+
+### [Nyquix](https://github.com/Natchpai/Nyquix)
+*STM32?? DSP Development Board*
+> A Mixed-signal Hardware ...
+
 <br/>
 
 ## 🌐 Connect With Me
