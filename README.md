@@ -18,28 +18,28 @@ Feel free to explore my repositories or reach out for collaboration!
 
 ###  [LQRx : InterleavedBuck](https://github.com/Natchpai/LQRx_InterleavedBuck)
 
-**2-Phase Interleaved Synchronous Buck Converter**
-> A digitally controlled power converter. STM32's high-resolution timers to handle up to 20A loads.
+**The 2-Phase Interleaved Synchronous Buck Converter**
+> Digitally controlled power converter powered by STM32G474RE.
 
 ###  [LQRx : InterleavedBuck Firmware](https://github.com/Natchpai/InterleavedBuck-Firmware)
-**A Firmware of 2-Phase Interleaved Synchronous Buck Converter**
+**The Firmware of 2-Phase Interleaved Synchronous Buck Converter**
 > Use LQR algorithm to Regulate the voltage and Balance the phase current.
 
 ###  [Low-Cost ESP32 Electronic Load](https://github.com/Natchpai/Electronic_Load)
 
-**ESP32-Based Electronic Test Equipment**
-> An open-source, 250W programmable DC electronic load designed for power supply testing.
+**The ESP32-Based Electronic Test Equipment**
+> The 250W programmable DC electronic load designed for power supply testing.
 
 <br/>
 
 ## 🛠️ Currently Working On
 
 ### [myZettBrett](https://github.com/Natchpai)
-*Zynq-7000 SoC Development Board*
+**Zynq-7000 SoC Development Board**
 > Practical Training in Designing Custom Development Boards Based-on the AMD/Xilinx Zynq-7000 SoC.
 
 ### [AeroOptix-Horizon](https://github.com/Natchpai/AeroOptix-Horizon)
-*STM32H743 & STM32F103 Flight Controller*
+**STM32H743 & STM32F103 Flight Controller**
 > High-performance Dual MCU Flight Controller powered by AeroOptix Club.
 
 <br/>
@@ -47,7 +47,7 @@ Feel free to explore my repositories or reach out for collaboration!
 ## 🌱 Plant?
 
 ### [Nyquix](https://github.com/Natchpai/Nyquix)
-*STM32?? DSP Development Board*
+**STM32?? DSP Development Board**
 > A Mixed-signal Hardware ...
 
 <br/>
