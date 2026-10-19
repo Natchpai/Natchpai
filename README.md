@@ -53,9 +53,9 @@
 
 - [Nyquix](https://github.com/Natchpai/Nyquix) — STM32-based mixed-signal DSP development board.
 - Custom microprocessor development board.
-  
+
 <p align="center">
-  <img src="assets/title2-wave.svg" alt="Cosmic particle vortex" width="100%" >
+  <img src="assets/title2-wave-space.svg" alt="wave-space" width="100%" >
 </p>
 
 ## 💬 About Me
@@ -69,7 +69,7 @@ I work on projects involving analog circuits, power supplies, embedded systems, 
 - ☕**Powered by:** Coffee.
 <details>
 <summary><h3>⚙️ Technical Skills</h3></summary>
-  
+
   * **PCB Design:** 4–10 layer PCBs, stackup planning, controlled impedance, differential pairs, length matching, DFM
   * **Analog & Mixed-Signal:** Op-amps, active filters, audio preamps, headphone amplifiers
   * **Digital Hardware:** Digital circuits, basic SoC hardware design
@@ -79,7 +79,7 @@ I work on projects involving analog circuits, power supplies, embedded systems, 
   - **Control Systems:** Digital LQR, PI control, analog and digital feedback loops
   - **Testing & Measurement:** Oscilloscope, thermal camera, FFT analysis
   - **Engineering Tools:** KiCad, LTspice, MATLAB, STM32Cube
-    
+
 </details>
 
 ## 🏢 Project Experience
@@ -87,7 +87,7 @@ I work on projects involving analog circuits, power supplies, embedded systems, 
 ### Consultant | AeroOptix KMUTNB
 
 - Project: [AeroOptix-Horizon](https://github.com/Natchpai/AeroOptix-Horizon), a dual-MCU flight controller developed with the AeroOptix Club.
-  
+
 ## 🚀 Milestones
 - [x] **Microcontrollers:** ARM Cortex-M, bare-metal C, STM32
 - [ ] **Mixed-Signal & DSP:** ADC/DAC interfaces, audio CODECs, DSP systems
