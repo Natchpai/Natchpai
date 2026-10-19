@@ -12,29 +12,6 @@ I build power electronics, digital and mixed-signal hardware, and open-source en
   <img alt="PCB Design" src="https://img.shields.io/badge/PCB_Design-238636?style=flat-square" />
 </p>
 
-
-## 📖 Featured hardware
-
-| Project | Description and technology |
-| :--- | :--- |
-| [LQRx-InterleavedBuck](https://github.com/Natchpai/LQRx_InterleavedBuck) | Two-phase interleaved buck converter with digital LQR control.<br>`STM32` `LQR` · [Firmware](https://github.com/Natchpai/InterleavedBuck-Firmware) |
-| [ESP32 Electronic Load](https://github.com/Natchpai/Electronic_Load) | Low-cost DC electronic load hardware.<br>`ESP32` `Power testing` |
-
-## On the workbench
-
-- **myZettBrett** · Custom development board based on the AMD/Xilinx Zynq-7000 SoC. `Zynq-7000`
-- **[AeroOptix-Horizon](https://github.com/Natchpai/AeroOptix-Horizon)** · Dual-MCU flight controller developed with the AeroOptix Club. `STM32H7` `STM32F1`
-
-## More from my workspace
-
-- **[Hardware-Copilot](https://github.com/Natchpai/Hardware-Copilot)** · Claude Code skills and guidelines for hardware engineering.
-- **[kicad-workspace](https://github.com/Natchpai/kicad-workspace)** · Archive of my KiCad library.
-
-## Planned
-
-- [Nyquix](https://github.com/Natchpai/Nyquix), a mixed-signal DSP development board based on STM32.
-- A custom microprocessor board.
-
 ## About Me
 <details>
 <summary>details</summary>
@@ -44,6 +21,31 @@ I work on power electronics, embedded control, and analog circuits. For LQRx, I 
 
 - 📌 **Currently learning:** High-speed interface layout
 - ☕ **Powered by:** Coffee
+
+
+## 📖 Hardware Project
+| Project | Description and technology |
+| :--- | :--- |
+| **[LQRx-InterleavedBuck](https://github.com/Natchpai/LQRx_InterleavedBuck)** | Two-phase interleaved buck converter with digital LQR control.<br>`STM32` `LQR` · [Firmware](https://github.com/Natchpai/InterleavedBuck-Firmware) |
+| **[ESP32 Electronic Load](https://github.com/Natchpai/Electronic_Load)** | Low-cost DC electronic load hardware.<br>`ESP32` `Power testing` |
+
+## 📖 General Project
+| Project | Description  |
+| :--- | :--- |
+|**[Hardware-Copilot](https://github.com/Natchpai/Hardware-Copilot)** | Claude Code skills and guidelines for hardware engineering. <br> `Skills` `Copilot` |
+|**[kicad-workspace](https://github.com/Natchpai/kicad-workspace)** | Archive of my KiCad library. <br> `KiCad` `Skills` `Template`|
+
+## 📖 Running
+| Project | Description  |
+| :--- | :--- |
+|**myZettBrett** | Custom development board based on the AMD/Xilinx Zynq-7000 SoC. <br>`Zynq-7000`|
+|**[AeroOptix-Horizon](https://github.com/Natchpai/AeroOptix-Horizon)** | Dual-MCU flight controller developed with the AeroOptix Club.<br> `STM32H7` `STM32F1` |
+
+
+## 📖 Planned
+
+- [Nyquix](https://github.com/Natchpai/Nyquix), a mixed-signal DSP development board based on STM32.
+- A custom microprocessor board.
 
 
 ## Work Experience
