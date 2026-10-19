@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets\09-blue-turbulence-contrast-closeup.svg" alt="TITLE" width="100%" >
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img alt="Hey, I'm Tonpai" src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=30&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Hey%2C+I'm+Tonpai+%F0%9F%91%8B" /></a>
@@ -10,6 +13,7 @@ I build power electronics, digital and mixed-signal hardware, and open-source en
   <img alt="Power Electronics" src="https://img.shields.io/badge/Power_Electronics-1f6feb?style=flat-square" />
   <img alt="Mixed-Signal" src="https://img.shields.io/badge/Mixed--Signal-8250df?style=flat-square" />
   <img alt="PCB Design" src="https://img.shields.io/badge/PCB_Design-238636?style=flat-square" />
+  <img alt="Embedded System" src="https://img.shields.io/badge/Embedded System-238636?style=flat-square" />
 </p>
 
 ## About Me
@@ -34,12 +38,14 @@ I work on power electronics, embedded control, and analog circuits. For LQRx, I 
 | :--- | :--- |
 |**[Hardware-Copilot](https://github.com/Natchpai/Hardware-Copilot)** | Claude Code skills and guidelines for hardware engineering. <br> `Skills` `Copilot` |
 |**[kicad-workspace](https://github.com/Natchpai/kicad-workspace)** | Archive of my KiCad library. <br> `KiCad` `Skills` `Template`|
+|**[InterleavedBuck-Firmware](https://github.com/Natchpai/InterleavedBuck-Firmware)** | Interleaved Buck with LQR Control's Firmware <br> `STM32` `LQR`|
+
 
 ## 📖 Running
-| Project | Description  |
-| :--- | :--- |
-|**myZettBrett** | Custom development board based on the AMD/Xilinx Zynq-7000 SoC. <br>`Zynq-7000`|
-|**[AeroOptix-Horizon](https://github.com/Natchpai/AeroOptix-Horizon)** | Dual-MCU flight controller developed with the AeroOptix Club.<br> `STM32H7` `STM32F1` |
+| Project | Description  | Status |
+| :--- | :--- | :--- |
+|**[AeroOptix-Horizon](https://github.com/Natchpai/AeroOptix-Horizon)** | Dual-MCU flight controller developed with the AeroOptix Club.<br> `STM32H7` `STM32F1` | Running |
+|**myZettBrett** | Custom development board based on the AMD/Xilinx Zynq-7000 SoC. <br>`Zynq-7000`| Pause |
 
 
 ## 📖 Planned
@@ -55,22 +61,19 @@ I work on power electronics, embedded control, and analog circuits. For LQRx, I 
 - Project: [AeroOptix-Horizon](https://github.com/Natchpai/AeroOptix-Horizon), a dual-MCU flight controller developed with the AeroOptix Club.
 
 ## Technical Skills
-
 - **Power electronics:** Synchronous buck design, component selection, and hardware debugging
 - **Analog and audio:** Op-amp circuit design, audio preamps, and headphone amplifier design
 - **PCB design:** Schematic and board layout in KiCad
 - **Control:** Digital LQR and PI control
-- **Embedded systems:** STM32 firmware
+- **Embedded systems:** STM32
 - **Measurements:** Oscilloscope, FFT analysis
-- **Design tools:** KiCad, STM32Cube, LTspice
-
+- **Design tools:** KiCad, STM32Cube, LTspice, MatLab
 
 ## Milestones
-
-- [x] **MCU platforms:** STM32
-- [ ] **Mixed-signal system**
-- [ ] **Custom microprocessor board**
-- [ ] **FPGA and SoC**
+- [x] **MCU platforms:** ARM-CortexM
+- [ ] **Mixed-signal system:** CODEX, DSP
+- [ ] **Custom microprocessor board:** STM32MP
+- [ ] **FPGA and SoC:** Lattice, Zynq
 
 ## 🌐 Connect
 
