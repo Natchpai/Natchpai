@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets\09-blue-turbulence-contrast-closeup.svg" alt="TITLE" width="100%" >
+  <img src="assets/cosmic-particle-vortex.svg" alt="TITLE" width="100%" >
 </p>
 
 <p align="center">
