@@ -11,12 +11,18 @@ This GitHub is a portfolio of my personal projects, university research and Open
 - 🛠️ **Tools:** KiCad, STM32Cube, LTspice
 - ☕ **Powered by** Coffee
 
-## 📚 Featured Projects
+## 📚 Hardware Projects
 
 | Project | Description | Technologies |
 | --------------------------------------------------------------- | ----------------- | --- |
 | [LQRx-InterleavedBuck](https://github.com/Natchpai/LQRx_InterleavedBuck) | 2-phase interleaved buck converter with digital LQR control. [Firmware](https://github.com/Natchpai/InterleavedBuck-Firmware) | STM32, LQR |
 | [ESP32 Electronic Load](https://github.com/Natchpai/Electronic_Load) | Low-cost DC electronic load hardware. | ESP32 |
+
+## 💻 General Project
+
+| Project | Description |
+| --------------------------------------------------------------- | ----------------- |
+| [Hardware-Copilot](https://github.com/Natchpai/Hardware-Copilot) | Claude Code skills for hardware engineering Guideline |
 
 ## 🚧 Working On
  
