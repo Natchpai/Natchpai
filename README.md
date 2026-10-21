@@ -1,8 +1,14 @@
 <p align="center">
   <img src="assets/cosmic-particle-vortex.svg" alt="Cosmic particle vortex" width="100%" >
 </p>
-
-
+<!-- <p align="center">
+  <img src="assets/NP_logo_white.png" alt="NP_logo" width="90" >
+</p> -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=transparent&height=120&color=gradient&section=header&reversal=false&text=Natchpai&textBg=false&fontSize=40&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60"
+    alt="Natchpai">
+</p>
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=30&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&width=550&lines=Hey%2C+I'm+Tonpai"
