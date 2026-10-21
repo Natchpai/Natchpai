@@ -4,9 +4,10 @@
 <!-- <p align="center">
   <img src="assets/NP_logo_white.png" alt="NP_logo" width="90" >
 </p> -->
+</br>
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=transparent&height=120&color=gradient&section=header&reversal=false&text=Natchpai&textBg=false&fontSize=40&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60"
+    src="https://capsule-render.vercel.app/api?type=transparent&height=55&color=gradient&section=header&reversal=false&text=Natchpai&textBg=false&fontSize=40&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60"
     alt="Natchpai">
 </p>
 <p align="center">
