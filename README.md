@@ -53,7 +53,7 @@
 
 | Project | Description | Status |
 | :--- | :--- | :--- |
-| **[AeroOptix-Horizon](https://github.com/Natchpai/AeroOptix-Horizon)** | Dual-MCU flight controller developed with the AeroOptix Club.<br>`STM32H7` `STM32F1` | In Progress |
+| **[AeroOptix-Horizon](https://github.com/Natchpai/AeroOptix-Horizon)** | Dual-MCU flight controller developed with the AeroOptix Club.<br>`STM32H7` `STM32F1` [Webpage](https://natchpai.github.io/AeroOptix-Horizon/)| In Progress |
 | **myZettBrett** | Custom development board based on the AMD/Xilinx Zynq-7000 SoC.<br>`Zynq-7000` | On Hold |
 
 ## 📋 Planned Projects
